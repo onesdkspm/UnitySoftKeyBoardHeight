@@ -32,8 +32,8 @@ let package = Package(
         // ========== Binary Frameworks ==========
         .binaryTarget(
             name: "UnitySoftKeyBoardHeight",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/UnitySoftKeyBoardHeight/2.0.0-dev-1406399/UnitySoftKeyBoardHeight.xcframework.zip",
-            checksum: "07de23e2bb2f49b9e8d47b05d839bacc65b6b8527101f63e1d8e6d724de5f05a"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/UnitySoftKeyBoardHeight/1.0.0-dev-1474842/UnitySoftKeyBoardHeight.xcframework.zip",
+            checksum: "117a196daf034ca8026621cd3fbbfdbbc12236ce2cec2fa3b1f892f3a3260b00"
         )
     ]
 )
