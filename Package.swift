@@ -11,7 +11,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/onesdkspm/UnityBridge.git", from: "2.0.0"),
+        .package(url: "https://github.com/onesdkspm/UnityBridge.git", from: "2.0.3"),
     ],
     targets: [
         // ========== Wrapper Target（统一管理系统依赖）==========
@@ -32,8 +32,8 @@ let package = Package(
         // ========== Binary Frameworks ==========
         .binaryTarget(
             name: "UnitySoftKeyBoardHeight",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/UnitySoftKeyBoardHeight/2.0.2/UnitySoftKeyBoardHeight.xcframework.zip",
-            checksum: "aa2bf6005dfdff3f2ae11353932dfef4d5ef61bd9e36d0a1bd658a2d88718130"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/UnitySoftKeyBoardHeight/2.0.3/UnitySoftKeyBoardHeight.xcframework.zip",
+            checksum: "3af31fee585cb184c93f551a615814777c8d873d93983b021d08160f13c32248"
         )
     ]
 )
